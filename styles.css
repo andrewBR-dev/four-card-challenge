@@ -18,14 +18,17 @@ h1 {
 }
 
 h2 {
+    font-size: 1.8rem;
     font-weight: 400;
 }
 
 p {
+    font-size: 1.2rem;
     font-weight: 200;
 }
 
-#p-header {
+#p-header > p {
+    font-size: 1.5rem;
     width: 60%;
     margin: 20px auto auto auto;
 }
